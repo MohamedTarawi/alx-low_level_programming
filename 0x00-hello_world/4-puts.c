@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <sring.h>
 
 /**
  * main -entry point
