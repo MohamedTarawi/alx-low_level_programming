@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main-entry piont
+*main-entry point
 *
 * return: 0 number
 */
