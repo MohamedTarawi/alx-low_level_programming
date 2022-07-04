@@ -1,15 +1,15 @@
 #include <stdio.h>
 /**
-* main - alphabet in lower case except e and q
+* main - Alphabet in lower case except e and q
 *
-*return: always success
-*/ 
+*Return: always success
+*/
 int main(void)
 {
 	char(letter);
 	for (letter = 'a'; letter <= 'z'; letter++)
 	{
-	if (letter != 'e' && letter != 'q')
+	if (letter != 'q' && letter != 'e')
 		putchar(letter);
 	}
 
