@@ -1,17 +1,19 @@
 #include <stdio.h>
 /* alphabet in capital and smaal letters
+*
 */
+Return :always 0.
+
 int main (void)
 {
-	char (low);
-	char (up);
+	char letter;
 
-	for
-	
-	       	(low = 'a'; low <= 'z'; up = 'A'; up <= 'Z'; low++)
-		putchar (low, up);
-		prinf(\n;)
+	for (letter = 'a'; letter >= 'z'; letter ++)
+		putchar(letter);
+	for (letter = 'A'; letter >= 'Z'; letter ++)
+		putchar(letter);
 
-		return (0);
+	putchar(\n);
 }
 
+	
