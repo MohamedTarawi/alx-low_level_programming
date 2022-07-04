@@ -3,6 +3,7 @@
 *Main - Entry point
 *
 *Return: Always true
+*
 */
 int main(void)
 {
