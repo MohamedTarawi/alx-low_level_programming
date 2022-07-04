@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
 *main - list all numbers between zero and ten
 *
 *Return: always success
