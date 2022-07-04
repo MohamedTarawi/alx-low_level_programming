@@ -3,7 +3,7 @@
 *alphabet in upper and lower cases
 *main - main function
 *
-*Return: Always 0 (success)
+*Return: Always true
 */
 int main(void)
 {
