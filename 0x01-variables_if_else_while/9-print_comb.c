@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
 * main - prints posible number combinations of single numbers
 *
@@ -20,4 +20,4 @@ int main(void)
 	}
 	 putchar('\n');
 	 return (0);
-} 
+}
