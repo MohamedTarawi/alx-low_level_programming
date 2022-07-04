@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
-*alphabet in upper and lower cases
-*main - main function
+*Main - Entry point
 *
 *Return: Always true
 */
