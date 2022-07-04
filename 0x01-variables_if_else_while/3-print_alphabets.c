@@ -4,7 +4,7 @@
 * Return: Always 0.
 */
 
-int main(char letter)
+int main(void)
 {
 	char letter;
 
