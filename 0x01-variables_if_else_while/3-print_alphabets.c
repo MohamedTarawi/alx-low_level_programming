@@ -2,7 +2,7 @@
 /*
 * alphabetin upper and lower cases
 */
-int main(void)
+main(void)
 {
 	char letter;
 
