@@ -1,7 +1,9 @@
 #include <stdio.h>
 /*
 * alphabetin upper and lower cases
+* Return: Always 0.
 */
+
 int main()
 {
 	char letter;
