@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-*main - list base ten numbers
+*main - list base ten number from 0 to 1os
 *
-*return: always success
+*
+*Return: always success
 */
 int main(void)
 {
