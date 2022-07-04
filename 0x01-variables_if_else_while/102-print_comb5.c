@@ -2,8 +2,8 @@
 /**
 *main - prints prints all possible combinations of two two-digit numbers
 *
-*numbers between 
-*Return - Always true
+*numbers between zero and ninety nine
+*Return: Always true
 */
 int main(void)
 {
